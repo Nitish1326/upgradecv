@@ -35,27 +35,23 @@ line-height: 2;
 } 
 
 .skill-row{
-width: 42%;
+width: 45%; 
 margin: 100px auto 250px;
 }
- 
+
 .skill-img{
 float: left;
 width:40%;
 } 
 
-.skill-para{
-padding-left: 2em;
-}
-
-.skill-row p{
+ .skill-row p{
 line-height: 2;
 text-align: left;
-}
+} 
 .strength-img{
 float: right;
 text-align: left;
-width:40%;
+width:45%;
 
 }
 
@@ -63,14 +59,15 @@ width:40%;
 background-color:#66bfbf; 
 padding: 80px 0 50px;
 }
-
+/* footer div  */
 a{
 color: #005964;
-/* font-size:4em; */
 font-weight: bold;
 font-family:Montserrat, sans-serif;
-margin: 20px 50px;
-text-decoration: none;
+padding: 10px 50px;
+text-decoration:none;
+margin:0 20px;
+
 }
 
 a:hover{
@@ -164,3 +161,5 @@ color: #cdd8d8;
 width: 5%;
 margin:200px auto;
 }
+
+
